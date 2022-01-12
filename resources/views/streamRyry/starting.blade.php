@@ -6,6 +6,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body style="background-image: url('images/background.jpg');">
+
 <div class="flex justify-center items-center h-screen flex-col">
     <div style="background-image: url('/images/giphy1.gif'); background-size: 110%" class="bg-clip-text">
         <h1 class="text-9xl text-transparent h-36" style="font-family: Roboto, sans-serif">Starting Soon</h1>
