@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <title>Laravel</title>
+        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     </head>
     <body style="background-color: #ececec;">
     <div class="flex justify-center mt-4 mb-2">
@@ -17,6 +17,12 @@
             <a class="mr-6" href="http://fondationpxn.com:50500/twitchLaravel/public/overlayryry">overlay</a>
             <a class="mr-6" href="http://fondationpxn.com:50500/twitchLaravel/public/overlaychatryry">overlay-chat</a>
             <a href="http://fondationpxn.com:50500/twitchLaravel/public/offlineryry">offline</a>
+        </div>
+    </div>
+    <div class="flex flex-col mt-10">
+        <p class="flex justify-center text-lg">Accès agent P</p>
+        <div class="flex justify-center text-md underline">
+            <a class="mr-6" href="http://fondationpxn.com:50500/twitchLaravel/public/startingpamp1n">starting</a>
         </div>
     </div>
     </body>
