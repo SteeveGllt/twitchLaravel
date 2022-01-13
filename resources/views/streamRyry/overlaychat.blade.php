@@ -17,9 +17,9 @@
              style="height: 540px; width: 960px" alt="">
         <div class="flex justify-center">
             <div class="absolute top-96">
-                <div style="margin-top: 100px">
+               <!--<div style="margin-top: 100px">
                     <img src="{{ asset('images/logoryry.png') }}" height="100" width="100">
-                </div>
+                </div>-->
             </div>
         </div>
     </div>
