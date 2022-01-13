@@ -8,7 +8,7 @@
 <body style="background-image: url('images/background.jpg');">
 
 <div class="flex justify-center items-center h-screen flex-col">
-    <div style="background-image: url('/images/giphy1.gif'); background-size: 110%" class="bg-clip-text">
+    <div style="background-image: url('images/giphy1.gif'); background-size: 110%" class="bg-clip-text">
         <h1 class="text-9xl text-transparent h-36" style="font-family: Roboto, sans-serif">Starting Soon</h1>
     </div>
     <div id="timer" class="text-2xl font-black text-white" style="font-family: Roboto, sans-serif"></div>

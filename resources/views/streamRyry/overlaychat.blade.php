@@ -5,7 +5,7 @@
     <title>Title</title>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body style="background-image: url('./images/background.jpg');">
+<body style="background-image: url('images/background.jpg');">
 
 <div class="absolute left-64 top-52 flex flex-row-reverse">
     <div class="border-2 border-violet-900 border-opacity-40 ml-5 w-96 rounded-2xl text-xl shadow-xl"
