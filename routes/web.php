@@ -21,3 +21,5 @@ Route::get('startingryry', [\App\Http\Controllers\SceneControllerRyry::class, 's
 Route::get('offlineryry', [\App\Http\Controllers\SceneControllerRyry::class, 'offlineRyry']);
 Route::get('overlayryry', [\App\Http\Controllers\SceneControllerRyry::class, 'overlayRyry']);
 Route::get('overlaychatryry', [\App\Http\Controllers\SceneControllerRyry::class, 'overlaychatRyry']);
+
+Route::get('startingpamp1n', [\App\Http\Controllers\SceneControllerPamp1n::class, 'startingPamp1n']);
